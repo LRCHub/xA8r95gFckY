@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ワガママMIRROR HEART",
+  "base_artist": "大橋彩香",
+  "createdAt": "2025-12-25T13:18:46.506371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワガママMIRROR HEART",
+      "artist": "大橋彩香",
+      "has_synced": false,
+      "path": "select/01_ワガママMIRROR_HEART_大橋彩香.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワガママMIRROR HEART",
+      "artist": "大橋彩香",
+      "has_synced": true,
+      "path": "select/02_ワガママMIRROR_HEART_大橋彩香.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワガママMIRROR HEART (Off Vocal)",
+      "artist": "大橋彩香",
+      "has_synced": true,
+      "path": "select/03_ワガママMIRROR_HEART_(Off_Vocal)_大橋彩香.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワガママMIRROR HEART [instrumental]",
+      "artist": "大橋彩香",
+      "has_synced": true,
+      "path": "select/04_ワガママMIRROR_HEART_[instrumental]_大橋彩香.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワガママMIRROR HEART（Off Vocal）",
+      "artist": "大橋彩香",
+      "has_synced": true,
+      "path": "select/05_ワガママMIRROR_HEART(Off_Vocal)_大橋彩香.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワガママMIRROR HEART",
+      "artist": "大橋彩香",
+      "has_synced": false,
+      "path": "select/pl_01_ワガママMIRROR_HEART_大橋彩香.txt"
+    }
+  ]
+}
